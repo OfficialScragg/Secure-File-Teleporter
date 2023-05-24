@@ -1,4 +1,4 @@
-# Secure-File-Teleporter
+# Secure File Teleporter (SFT)
 A simple encrypted file transfer peer to peer system.
 
 <br />
